@@ -1,0 +1,10 @@
+
+ThePresident/ThePresidentLabCode/war/img/ae_gwt_java.png
+
+ThePresident/ThePresidentLabCode/.project
+
+*.prefs
+
+ThePresident/ThePresidentLabCode/.settings/org.eclipse.wst.common.project.facet.core.xml
+
+ThePresident/ThePresidentLabCode/war/WEB-INF/appengine-generated/local_db.bin
